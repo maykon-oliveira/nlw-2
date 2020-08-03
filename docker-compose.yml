@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  proffy-web:
+    container_name: proffy-web
+    build: web/
+    ports:
+      - 1337:80
