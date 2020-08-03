@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img alt="Ecoleta" title="#delicinha" src=".github/ecoleta.png" width="250px" />
-  <br/>
-  <img alt="Ecoleta" title="#delicinha" src=".github/logo.png" width="250px" />
+  <img alt="Ecoleta" title="#delicinha" src=".github/logo.svg" width="250px" />
 </h1>
 
 <p align="center">
@@ -18,7 +16,6 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
