@@ -5,3 +5,9 @@ services:
     build: web/
     ports:
       - 1337:80
+    depends_on:
+      - proffy-api
+  proffy-api:
+    build: server/
+    ports:
+      - 8081:8081

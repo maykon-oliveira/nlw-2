@@ -54,6 +54,10 @@ Projeto desenvolvido durante a <strong>Next Level Week 2</strong>.
 # Clone este repositório
 $ git clone git@github.com:maykon-oliveira/nlw-2.git
 
+# Navegue até a pasta server e execute os seguintes comandos:
+$ yarn knex:migrate
+$ yarn start
+
 # Depois disso, entre na pasta web e execute o comando:
 $ yarn start
 ```
