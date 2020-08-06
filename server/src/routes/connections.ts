@@ -7,6 +7,7 @@ const router = express.Router();
 const connection = db(knexConfig['development']);
 const connectionController = new ConnectionController(connection);
 
-// router.get('/', itemController.list);
+router.get('/', connectionController.getTotal);
+router.post('/', connectionController.incrementConnection);
 
 export default router;

@@ -10,7 +10,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: var(--color-text-int-primary);
+    color: var(--color-text-in-primary);
     padding: 1.6rem 0;
 }
 
@@ -41,6 +41,14 @@
     color: var(--color-title-in-primary);
 }
 
+.page-header .header-content p {
+    max-width: 30rem;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    color: var(--color-text-in-primary);
+    margin-top: 2.4rem;
+}
+
 @media (min-width: 700px) {
     .page-header {
         height: 340px;
@@ -60,6 +68,7 @@
         justify-content: center;
         align-items: flex-start;
     }
+
     .page-header .header-content strong {
         max-width: 350px;
     }
