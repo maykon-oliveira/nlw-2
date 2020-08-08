@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ## :memo: Projeto
 
@@ -42,11 +43,11 @@ Projeto desenvolvido durante a <strong>Next Level Week 2</strong>.
     <img alt="Proffy Front-end" src=".github/web.gif" />
 </h1>
 
-<!-- ## :iphone: Mobile
+## :iphone: Mobile
 
 <h1 align="center">
     <img alt="Proffy Mobile" src=".github/mobile.gif" />
-</h1> -->
+</h1>
 
 ## :wrench: Instalação
 
